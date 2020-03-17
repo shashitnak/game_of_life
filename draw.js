@@ -1,8 +1,8 @@
 let width = 1920;
 let height = 951;
 
-let w = 1;
-let h = 1;
+let w = 5;
+let h = 5;
 
 let h_cells = width/w;
 let v_cells = height/h;
