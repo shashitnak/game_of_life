@@ -7,7 +7,7 @@ let h = 1;
 let h_cells = width/w;
 let v_cells = height/h;
 
-let threshold = 0.03;
+let threshold = 0.1;
 
 class Cells {
     constructor() {
